@@ -1,0 +1,10 @@
+{
+  "config": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "user": "tracing_demo",
+    "password": "CHANGE_ME",
+    "database": "demo"
+  },
+  "table": "demo_table"
+}
